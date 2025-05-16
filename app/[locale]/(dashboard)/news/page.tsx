@@ -1,0 +1,7 @@
+import NewsPage from "@/containers/news/NewsPage";
+import React from "react";
+
+export default async function Page() {
+
+  return <NewsPage />;
+}
